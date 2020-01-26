@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body {
+    background: rgb(156, 70, 70);
+}
+
+section {
+    height: 100vh;
+}
+
+.section1 {
+    background: rgb(27, 106, 255);
+}
+.section2 {
+    background: rgb(6, 146, 151);
+}
+.section3 {
+    background: rgb(255, 105, 105);
+}
